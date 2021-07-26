@@ -1,2 +1,2 @@
-# ALAZD.github.io
+# Александр Лазаренко
 Homework
