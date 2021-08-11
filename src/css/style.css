@@ -137,7 +137,7 @@ ul li{
 
 .web {
     font-size: 16px;
-    color: #cf7600;
+    color: #ee8a05;
     margin: 146px 0px 0px 380px;
     float: left;
 }
@@ -146,14 +146,16 @@ ul li{
     color:#3f495a;
     font-size: 14px;
     margin-top: 20px;
+   line-height: 16px;
 }
 
 #note {
     margin-bottom: 40px;
 }
+
 .cre {
     font-size: 16px;
-    color: #cf7600;
+    color: #ee8a05;
     margin: 146px 0px 0px 80px;
     float: left;
 }
@@ -162,6 +164,7 @@ ul li{
     color:#3f495a;
     font-size: 14px;
     margin-top: 20px;
+    line-height: 16px;
 }
 
 #creat {
@@ -170,7 +173,7 @@ ul li{
 
 .opt {
     font-size: 16px;
-    color: #cf7600;
+    color: #ee8a05;
     margin: 146px 0px 0px 80px;
     float: left;
 }
@@ -179,6 +182,7 @@ ul li{
     color:#3f495a;
     font-size: 14px;
     margin-top: 20px;
+    line-height: 16px;
 }
 
 #optim {
@@ -187,7 +191,7 @@ ul li{
 
 .mar {
     font-size: 16px;
-    color: #cf7600;
+    color: #ee8a05;
     margin: 146px 0px 0px 80px;
     float: left;
 }
@@ -196,10 +200,98 @@ ul li{
     color:#3f495a;
     font-size: 14px;
     margin-top: 20px;
+    line-height: 16px;
 }
 
 #market {
     margin-bottom: 40px;
+}
+
+.caseall{
+    width: 100%;
+    height: 1100px;
+    text-align: center;
+    background:url(../img/line.png) 50% 15% no-repeat;
+    float: left;
+}
+
+.case h3{
+    font-size: 30px;
+    margin-top: 110px;
+    text-align: center;
+    color: #384354;
+    text-transform: uppercase;
+    
+}
+
+.case p{
+    font-size: 16px;
+    margin-top: 75px;
+    margin-bottom: 45px;
+    color: #3f495a;
+    text-align: center;
+    
+}
+
+.inf h3{
+    font-size: 22px;
+    margin: 40px 0px 0px 420px;
+    text-align: center;
+    color: #384354;
+    text-transform: uppercase;
+    float: left;
+}
+
+.inf p{
+    font-size:10px;
+    color:#3f495a;
+    margin: 70px 0px 0px -65px;
+    float: left;
+}
+
+.website h3{
+    font-size: 22px;
+    margin: 90px 0px 0px -85px;
+    text-align: center;
+    color: #384354;
+    text-transform: uppercase;
+    float: left;
+}
+
+.website p{
+    font-size:10px;
+    color:#3f495a;
+    margin: 120px 0px 0px -85px;
+    float: left;
+}
+
+.caseall input{
+    height: 44px;
+    font-size: 15px;
+    margin: 160px 0px 0px -130px;
+    text-align: center;
+    border-radius: 8px;
+    background: #63b5ae;
+    color: #fff;
+    padding: 0% 40px;
+    float: left;
+
+}
+
+.name h4{
+    font-size: 18px;
+    margin: 40px 0px 0px 85px;
+    text-align: center;
+    color: #384354;
+    float: left;
+}
+
+.name p{
+    font-size:14px;
+    color:#3f495a;
+    margin: 70px 0px 0px -145px;
+    text-align: left;
+    float: left;
 }
 
 #textarea_name{
