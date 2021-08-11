@@ -120,77 +120,81 @@ ul li{
 .wic{
     width: 100%;
     height: 523px;
-    background: url(../img/line.png) 50% 30% no-repeat, url(../img/market.png) 74% 65% no-repeat, url(../img/optim.png) 57% 65% no-repeat, url(../img/creat.png) 42% 65% no-repeat, url(../img/note.png) 26.5% 65% no-repeat, url(../img/bg3.jpg) 50% 47%  no-repeat;
+    text-align: center;
+    background: url(../img/bg3.jpg) 50% 47%  no-repeat;
     float: left;
 }
 
 .wic h2{
     font-size: 30px;
     margin-top: 110px;
-    text-align: center;
     color: #3f495a;
     text-transform: uppercase;
 
 }
 
-.web h3{
+.web {
     font-size: 16px;
     color: #cf7600;
-    margin: 220px 0px 0px 477px;
+    margin: 150px 0px 0px -45%;
 }
 
 .web p{
-    width: 220px;
+    color:#3f495a;
     font-size: 14px;
-    color: #3f495a;
-    margin: 15px 0px 0px 420px;
+    margin-top: 10px;
 }
 
-.cre h3{
+#note {
+    margin-bottom: 20px;
+}
+.cre {
     font-size: 16px;
     color: #cf7600;
-    margin: -73px 0px 0px 765px;
-    
+    margin: -130px 0px 0px -15%;
 }
 
 .cre p{
-    width: 220px;
+    color:#3f495a;
     font-size: 14px;
-    color: #3f495a;
-    margin: 15px 0px 0px 713px;
+    margin-top: 10px;
 }
 
-.opt h3{
+#creat {
+    margin-bottom: 20px;
+}
+
+.opt {
     font-size: 16px;
     color: #cf7600;
-    margin: -73px 0px 0px 1020px;
-    
+    margin: -130px 0px 0px 15%;
 }
 
 .opt p{
-    width: 220px;
+    color:#3f495a;
     font-size: 14px;
-    color: #3f495a;
-    margin: 15px 0px 0px 1004px;
+    margin-top: 10px;
 }
 
-.mar h3{
+#optim {
+    margin-bottom: 20px;
+}
+
+.mar {
     font-size: 16px;
     color: #cf7600;
-    margin: -73px 0px 0px 1360px;
-    
+    margin: -130px 0px 0px 45%;
 }
 
 .mar p{
-    width: 220px;
+    color:#3f495a;
     font-size: 14px;
-    color: #3f495a;
-    margin: 15px 0px 0px 1300px;
+    margin-top: 10px;
 }
 
-
-
-
+#market {
+    margin-bottom: 20px;
+}
 
 #textarea_name{
     resize: none
