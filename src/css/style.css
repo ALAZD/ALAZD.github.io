@@ -294,6 +294,103 @@ ul li{
     float: left;
 }
 
+.price{
+    width: 100%;
+    height: 900px;
+    text-align: center;
+    float: left;
+}
+
+.price_calc{
+    font-size: 30px;
+    margin-top: 160px;
+    text-align: center;
+    color: #1c2534;
+    
+}
+
+.site{
+    width: 890px;
+    height: 110px;
+    text-align: center;
+    float: left;
+    margin: 60px 0px 0px 515px;
+}
+
+.site h3{
+    font-size: 22px;
+    float: left;
+    color: 1c2534;
+}
+
+.select_site{
+    margin-top: 35px;
+    display: block;
+
+
+    
+}
+.design{
+    width: 890px;
+    height: 110px;
+    text-align: center;
+    float: left;
+    margin: 60px 0px 0px 515px;
+}
+
+.design h3{
+    font-size: 22px;
+    float: left;
+    color: 1c2534;
+}
+
+.select_design{
+    margin-top: 35px;
+    display: block;
+}
+
+.adaptive{
+    width: 890px;
+    height: 110px;
+    text-align: center;
+    float: left;
+    margin: 60px 0px 0px 515px;
+}
+
+.adaptive h3{
+    font-size: 22px;
+    float: left;
+    color: 1c2534;
+}
+
+.select_adaptive{
+    margin-top: 35px;
+    display: block;
+}
+
+.end{
+    background: url(../img/line1.jpg) 51% 0% no-repeat;
+    margin-top: 510px;
+}
+
+.end1{
+    float: left;
+    font-size: 15px;
+    color: #1c2534;
+    margin: 20px 0px 0px 513px;
+    text-align: left;
+    line-height: 30px;
+}
+
+.end2{
+    font-size: 20px;
+    color: #1c2534;
+    margin: 0px 0px 0px 890px;
+    padding-top: 20px;
+    line-height: 30px;
+
+}
+
 #textarea_name{
     resize: none
 }
